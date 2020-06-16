@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Thermometer</string>
+    <string name="Tips_wear_mask">请戴口罩录入人脸信息</string>
+    <string name="Tips_no_wear_mask">摘掉口罩录入人脸信息</string>
+    <string name="Tips_turn_face">请转动脸</string>
+    <string name="Tips_entering_info">张三 正在录入面部信息</string>
+    <string name="Tips_mask_info_completed">戴口罩面部信息录入完成</string>
+    <string name="Tips_no_mask_info_completed">录入人脸信息完成</string>
+    <string name="button_next_step">下一步</string>
+    <string name="button_goto_temperature">进入测温</string>
+
+    <string name="title_register_info_page">人脸测温</string>
+    <string name="title_regist_info">如何正确测温</string>
+    <string name="register_info_one">确保摄像头清洁,正确佩戴口罩,露出额头与眉毛,测温环境光线充足,无阳光直射。</string>
+    <string name="register_info_two">注册人脸可用于数据记录及语音播报。
+    请输入姓名注册人脸信息</string>
+    <string name="enter_name">输入姓名：</string>
+    <string name="start_to_register">录入人脸</string>
+
+    <string name="face_center">将脸摆正</string>
+    <string name="face_up">将脸朝上</string>
+    <string name="face_right">将脸朝右</string>
+    <string name="face_down">将脸朝下</string>
+    <string name="face_left">将脸朝左</string>
+
+</resources>
