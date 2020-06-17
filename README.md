@@ -2,7 +2,8 @@
 
 **2020年的温度计实现过程记录**
 
-![image](https://github.com/skye91/Thermometer/edit/master/thermometerTest.gif)   
+![image](https://github.com/skye91/Thermometer/blob/master/thermometerTest.gif)   
+
 
 
 
